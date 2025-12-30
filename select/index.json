@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "彩 Phantasia",
+  "base_artist": "エアグルーヴ (CV. 青木瑠璃子)、カワカミプリンセス (CV. 高橋花林)、スイープトウショウ (CV. 杉浦しおり)、ニシノフラワー (CV. 河井晴菜)、メジロドーベル (CV. 久保田ひかり)",
+  "createdAt": "2025-12-30T04:49:45.907386Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "彩",
+      "artist": "志方あきこ",
+      "has_synced": false,
+      "path": "select/01_彩_志方あきこ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "彩 Phantasia (YMCK Remix)",
+      "artist": "エアグルーヴ (CV. 青木瑠璃子)",
+      "has_synced": false,
+      "path": "select/02_彩_Phantasia_(YMCK_Remix)_エアグルーヴ_(CV._青木瑠璃子).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "いろ、なつ、ゆめ ~ 彩 夏 夢",
+      "artist": "石川セリ",
+      "has_synced": true,
+      "path": "select/03_いろ、なつ、ゆめ_~_彩_夏_夢_石川セリ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "彩・夏・夢（いろ、なつ、ゆめ）",
+      "artist": "石川セリ",
+      "has_synced": true,
+      "path": "select/04_彩・夏・夢(いろ、なつ、ゆめ)_石川セリ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "彩 ～Aja～",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/05_彩_~Aja~_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "彩～Aja～ (Aya ~Aja~)",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/06_彩~Aja~_(Aya_~Aja~)_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "彩～Aja～ (2024 Remaster)",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/07_彩~Aja~_(2024_Remaster)_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "彩～Aja～",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/08_彩~Aja~_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "10クローネとパン(児玉 遥、藤江れいな、古畑奈和、山本 彩、横山由依)",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/09_10クローネとパン(児玉_遥、藤江れいな、古畑奈和、山本_彩、横山由依)_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "彩-sai-",
+      "artist": "喜多村英梨",
+      "has_synced": true,
+      "path": "select/10_彩-sai-_喜多村英梨.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "夢・彩・とりどり",
+      "artist": "VA",
+      "has_synced": true,
+      "path": "select/11_夢・彩・とりどり_VA.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "過ち(山本 彩 & 稲垣潤一)",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/12_過ち(山本_彩_&_稲垣潤一)_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "彩 〜Aja〜",
+      "artist": "Southern All Stars",
+      "has_synced": true,
+      "path": "select/13_彩_〜Aja〜_Southern_All_Stars.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "彩 Phantasia",
+      "artist": "エアグルーヴ (青木瑠璃子), カワカミプリンセス (高橋花林), スイープトウショウ (杉浦しおり), ニシノフラワー (河井晴菜), メジロドーベル (久保田ひかり)",
+      "has_synced": false,
+      "path": "select/pl_01_彩_Phantasia_エアグルーヴ_(青木瑠璃子),_カワカミプリンセス_(高橋花林),_スイープトウショウ_(杉浦しおり),_ニシノフラワー_(河井晴菜),_メジロドーベル_(久保.txt"
+    }
+  ]
+}
